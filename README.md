@@ -32,13 +32,3 @@ yarn dev
 ```bash
 php artisan serve
 ```
-
-7. Now navigate to the given address, and you will see your application is running.🥳
-
-## Available Tasks 🧑‍💻
-
-**Building for Production:** If you want to run the project and make the build in the production mode then run the following command in the root directory, by default The project will continue to run in the development mode:
-
-```bash
-yarn prod
-```
